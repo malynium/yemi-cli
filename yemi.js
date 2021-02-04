@@ -7,7 +7,6 @@ const packageJson = require('./package.json');
 let articleName;
 
 function init() {
-  console.log('executing init...');
   const program = new Command();
   program
     .version(packageJson.version)
