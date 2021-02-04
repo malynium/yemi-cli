@@ -1,12 +1,12 @@
 {
-  "name": "yemi-cli",
-  "version": "0.0.6",
+  "name": "yemi",
+  "version": "0.0.1",
   "description": "Easily create Yemi articles, with metadata structure.",
   "keywords": [
     "yemi"
   ],
   "bin": {
-    "yemi-cli": "index.js"
+    "yemi": "index.js"
   },
   "main": "index.js",
   "repository": {
