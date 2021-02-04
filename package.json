@@ -1,0 +1,22 @@
+{
+  "name": "yemi-cli",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malynium/yemi-cli.git"
+  },
+  "author": "Jason Creviston",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malynium/yemi-cli/issues"
+  },
+  "homepage": "https://github.com/malynium/yemi-cli#readme",
+  "dependencies": {
+    "commander": "7.0.0"
+  }
+}
