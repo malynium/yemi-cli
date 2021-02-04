@@ -1,6 +1,6 @@
 {
   "name": "yemi-cli",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Easily create Yemi articles, with metadata structure.",
   "keywords": [
     "yemi"
