@@ -1,10 +1,10 @@
 {
   "name": "yemi-cli",
-  "version": "0.0.3",
-  "description": "",
-  "bin": {
-    "yemi-cli": "./index.js"
-  },
+  "version": "0.0.4",
+  "description": "Easily create Yemi articles, with metadata structure.",
+  "keywords": [ "yemi" ],
+  "bin": "index.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/malynium/yemi-cli.git"
