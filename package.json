@@ -9,6 +9,9 @@
     "yemi": "index.js"
   },
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/malynium/yemi-cli.git"
