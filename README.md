@@ -2,4 +2,6 @@
 
 ### Easily create new articles for your blog
 
-run `npx yemi article <article-name>` inside of your blog's local repo folder, and we'll scaffold out your article markdown file with Yemi's metadata.
+Run `npm install -g @malynium/yemi` inside of your blog's local repo folder.
+
+Then `yemi article <article-name>` and we'll scaffold out your article's markdown file, including Yemi's metadata.

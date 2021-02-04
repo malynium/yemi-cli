@@ -1,7 +1,7 @@
 {
-  "name": "yemi",
+  "name": "@malynium/yemi",
   "version": "0.0.1",
-  "description": "Easily create Yemi articles, with metadata structure.",
+  "description": "Easily create Yemi articles.",
   "keywords": [
     "yemi"
   ],
