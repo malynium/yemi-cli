@@ -10,13 +10,21 @@
   },
   "main": "index.js",
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "allow-same-version": true
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/malynium/yemi-cli.git"
   },
   "author": "Jason Creviston",
+  "contributors": [
+    {
+      "name": "Jason Creviston",
+      "email": "jason@malynium.com",
+      "url": "https://github.com/crevizzle"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/malynium/yemi-cli/issues"
